@@ -1,0 +1,10 @@
+| coordinate                     | info_cord                                    |
+|--------------------------------|----------------------------------------------|
+| -2918.05  ,-1290.78  ,-39.26   | Immortal Crossing the Bear - Short Money     |
+| -3041.18  ,-426.634  ,-42.6868 | Fenghe Village Xiao Yao - Zhou Yuan Tong Bao |
+| -1014.57 ,487.752 ,-61.4313    | Kaifeng City Xiao Yuan - Song Yuan Tong Bao  |
+| -1287.89 ,-121.16 ,-62.4801    | Kaifeng City Hu Niu'er - Song Yuan Tong Bao  |
+| -598.962, -650.186, -46.1904   | Kaifeng City Weiyang Merchant Tang Lun       |
+| -3210.67, -874.859, -50.37     | Shenxiandu Weiyang Merchant Tang Bao         |
+| -933.823 ,135.864 ,-754.682    | Ghost Market Money Den                       |
+| -889.992 ,203.65 ,-750.156     | Ghost Market Bookstore                       |
